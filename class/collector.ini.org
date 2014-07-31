@@ -1,0 +1,17 @@
+[AWS]
+accesskey = ""
+secretkey = ""
+def_region = "ap-northeast-1"
+
+
+[Common]
+
+
+[Currency]
+type[] = GBPJPY
+type[] = USDJPY
+
+
+[RRS]
+GBPJPY = http://gbp.jp.fx-exchange.com/jpy.xml
+USDJPY = http://usd.jp.fx-exchange.com/jpy.xml
